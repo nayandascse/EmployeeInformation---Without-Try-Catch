@@ -1,0 +1,78 @@
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\OOP(.Net) @ BASIS\Final Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+G:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation\EmployeeInformation\obj\x86\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+H:\Dropbox\Dropbox\OOP.Net\Content\Database\A small db sample in several way\EmployeeInformation - Wwithout Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.FindEmployeeUI.resources
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.MainMenuUI.resources
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.DesignationUI.resources
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.UI.EmployeeInformationUI.resources
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.Properties.Resources.resources
+E:\Nayan Das .Net-4\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+E:\Dot_Net_Work\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+E:\Dot_Net_Work\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.exe
+E:\Dot_Net_Work\23.05.2015(Day-17)\EmployeeInformation - Without Try Catch\EmployeeInformation - Without Try Catch\EmployeeInformation\obj\x86\Debug\EmployeeInformation.pdb
